@@ -1,5 +1,4 @@
 # XmlJsonFilesMerger
-the project was build as a task from freshcells
 
 This Project was created as a task from the interviewing process for Freshcells.
 
