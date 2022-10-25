@@ -1,0 +1,47 @@
+This Project was created as a task from the interviewing process for Freshcells.
+
+- The aim of this application is to read set of xml and json files from a specified folder directory and consolidate these files into
+one json file with a specific format.
+
+- The Path to the folder directory can be set in the application.properties in the attribute (HOTEL_XML_FILES_DIRECTORY)
+and the application will read only files of type xml or json and with the syntax (Numbers)-(coah or giata).(xml or json)
+
+- The other attribute in the application,properties (JSON_OUT_FILE_PATH) is to set the file path location for the consolidated
+json file, if the file exists it will be updated otherwise it will be created.
+
+-to execute the application after updating the attributes in the properties file you can run the method
+FreshcellsTaskApplication.consolidateHotelsData() and expects the output in the specified file
+
+-------------------------------------------------------------------------------------------
+ the structure will be as in the below example
+
+ - files in the input dir :
+ 39567-giata.xml
+ 162838-giata.xml
+ 162838-coah
+ 411144-giata.xml
+ 594608-coah.json
+ 3956-coah.xml
+ 3956-giata.xml
+
+ - new Json file will be created with the below structure :
+ {
+   "162838" : {
+     "giata" : {file content..},
+     "coah" {file content..},
+   "3956" : {
+     "giata" : {file contents.. },
+     "coah" : {file contents.. }
+   },
+   "594608" : {
+     "coah" : {file contents.. }
+   },
+   "411144" : {
+     "giata" : {file contents.. }
+   },
+   "39567" : {
+     "giata" : {file contents..}
+   }
+ }
+
+
