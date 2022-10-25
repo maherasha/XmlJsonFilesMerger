@@ -1,7 +1,7 @@
-/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask/src/main/java/com/freshcells/freshcellstask/repository/HotelsRepo.java
-/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask/src/main/java/com/freshcells/freshcellstask/utils/JsonXmlUtils.java
-/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask/src/main/java/com/freshcells/freshcellstask/model/HotelBuilder.java
-/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask/src/main/java/com/freshcells/freshcellstask/model/Hotel.java
-/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask/src/main/java/com/freshcells/freshcellstask/FreshcellstaskApplication.java
-/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask/src/main/java/com/freshcells/freshcellstask/repository/HotelFilesRepo.java
-/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask/src/main/java/com/freshcells/freshcellstask/service/HotelsService.java
+/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask-repo/XmlJsonFilesMerger/XmlJsonFilesMerger/src/main/java/com/freshcells/freshcellstask/repository/HotelsRepo.java
+/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask-repo/XmlJsonFilesMerger/XmlJsonFilesMerger/src/main/java/com/freshcells/freshcellstask/model/HotelBuilder.java
+/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask-repo/XmlJsonFilesMerger/XmlJsonFilesMerger/src/main/java/com/freshcells/freshcellstask/model/Hotel.java
+/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask-repo/XmlJsonFilesMerger/XmlJsonFilesMerger/src/main/java/com/freshcells/freshcellstask/service/HotelsService.java
+/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask-repo/XmlJsonFilesMerger/XmlJsonFilesMerger/src/main/java/com/freshcells/freshcellstask/FreshcellsTaskApplication.java
+/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask-repo/XmlJsonFilesMerger/XmlJsonFilesMerger/src/main/java/com/freshcells/freshcellstask/repository/HotelFilesRepo.java
+/Users/maherasha/Desktop/work/FreshCells Task/freshcellstask-repo/XmlJsonFilesMerger/XmlJsonFilesMerger/src/main/java/com/freshcells/freshcellstask/utils/JsonXmlUtils.java

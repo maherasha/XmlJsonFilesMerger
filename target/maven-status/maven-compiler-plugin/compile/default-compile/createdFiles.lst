@@ -1,0 +1,7 @@
+com/freshcells/freshcellstask/model/Hotel.class
+com/freshcells/freshcellstask/repository/HotelsRepo.class
+com/freshcells/freshcellstask/model/HotelBuilder.class
+com/freshcells/freshcellstask/service/HotelsService.class
+com/freshcells/freshcellstask/FreshcellsTaskApplication.class
+com/freshcells/freshcellstask/repository/HotelFilesRepo.class
+com/freshcells/freshcellstask/utils/JsonXmlUtils.class
